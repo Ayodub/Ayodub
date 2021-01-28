@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Cyber Security and Cloud.
 - 👯 I’m looking for my first role in the industry.
-- 🥅 2021 Goals: Earn as many certifications as possible. Currently eWPT & eJPT.
+- 🥅 2021 Goals: Earn as many certifications as possible. 
 - ⚡ Fun fact: I'm a Chess Master and have (ghost)written two books on Chess.
 
 ### Spotify Playing 🎧
