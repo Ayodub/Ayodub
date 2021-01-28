@@ -51,9 +51,12 @@
 
 
 
-
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Ayodub's GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=Ayodub&show_icons=true&hide_border=true" />
+
+</details>
 
 
 
