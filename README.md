@@ -45,7 +45,7 @@
 
 <!-- Project:START -->
 - LeakyFlask: A Web-Facing vulnerable Flask application. User instances are containerised, removing the need to download the vulnerable machine locally or to use a VPN connection.
-- WebEnum: A desktop GUI to automate all the simple, but tedious, web enumeration tasks. Intentionally built with no automated-exploitation, keeping it within the guidelines of exams such as the OSCP and allowing it to be a useful time-saving tool for those learning Cyber Security.
+- WebEnum: A desktop GUI to automate all the simple, but tedious, web enumeration tasks. Intentionally built with no automated exploitation, keeping it within the guidelines of exams such as the OSCP and allowing it to be a useful time-saving tool for those learning Cyber Security.
 
 <!-- Project:END -->
 
