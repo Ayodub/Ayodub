@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayodub Spotify Playing" width="350" />](https://open.spotify.com/user/twn4n4i3qb3lhwxszd4fwt948)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayodub Spotify Playing" width="375" />](https://open.spotify.com/user/twn4n4i3qb3lhwxszd4fwt948)
 
 ### Connect with me:
 
