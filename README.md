@@ -10,7 +10,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayodub Spotify Playing" width="375" />](https://open.spotify.com/user/twn4n4i3qb3lhwxszd4fwt948)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Ayodub Spotify Playing" width="425" />](https://open.spotify.com/user/twn4n4i3qb3lhwxszd4fwt948)
 
 ### Connect with me:
 
@@ -68,7 +68,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Ayodub's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ayodub&show_icons=true&hide_border=true" />
+  <img align="left" alt="Ayodub's GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api?username=Ayodub&show_icons=true&hide_border=true" />
 
 </details>
 
