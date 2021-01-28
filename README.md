@@ -1,11 +1,11 @@
 ### Hi there, I'm Tom 👋
 
 
-## I'm an aspiring penetration tester & exploit developer
+## I'm an aspiring Penetration Tester or Cloud Architect
 
-- 🌱 I’m currently learning Cyber Security and Cloud architecture.
-- 👯 I’m looking for my first role in Cyber Security.
-- 🥅 2021 Goals: Have a CVE published, and earn as many certifications as possible.
+- 🌱 I’m currently learning Cyber Security and Cloud.
+- 👯 I’m looking for my first role in the industry.
+- 🥅 2021 Goals: Earn as many certifications as possible.
 - ⚡ Fun fact: I'm a Chess Master and have (ghost)written two books on Chess.
 
 ### Spotify Playing 🎧
