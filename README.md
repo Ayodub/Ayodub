@@ -1,9 +1,9 @@
 ### Hi there, I'm Tom 👋
 
 
-## I'm an aspiring Penetration Tester or Cloud Architect
+## I'm an aspiring Penetration Tester and Exploit Developer.
 
-- 🌱 I’m currently learning Cyber Security and Cloud.
+- 🌱 I’m currently learning Cyber Security, Coding, and Cloud.
 - 👯 I’m looking for my first role in the industry.
 - 🥅 2021 Goals: Earn as many certifications as possible. 
 - ⚡ Fun fact: I'm a Chess Master and have (ghost)written two books on Chess.
@@ -44,7 +44,7 @@
 ### 📺 Current Projects
 
 <!-- Project:START -->
-- LeakyFlask: A Web-Facing vulnerable Flask application. User instances are containerised, removing the need to download the vulnerable machine locally or to use a VPN connection.
+- LeakyFlask: An intentionally vulnerable Flask Web application demonstrating common security misconfigurations that users may exploit, as well as information on how to avoid these misconfigurations.
 - WebEnum: A desktop GUI to automate all the simple, but tedious, web enumeration tasks. Intentionally built with no automated exploitation, keeping it within the guidelines of exams such as the OSCP and allowing it to be a useful time-saving tool for those learning Cyber Security.
 
 <!-- Project:END -->
