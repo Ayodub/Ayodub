@@ -1,7 +1,7 @@
 ### Hi there, I'm Tom 👋
 
 
-## I'm an aspiring Penetration Tester and Exploit Developer.
+## I'm a Penetration Tester and Developer.
 
 - 🌱 I’m currently learning Cyber Security, Coding, and Cloud.
 - 👯 I’m looking for my first role in the industry.
