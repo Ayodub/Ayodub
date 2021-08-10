@@ -4,7 +4,7 @@
 ## I'm a Penetration Tester and Developer.
 
 - 🌱 CTF Player.
-- 👯 OSCP | eCPPT | eWPT | eJPT.
+- 👯 OSCP | OSWP | eCPPT | eWPT | eJPT.
 - 🥅 Especially interested in Cloud Penetration Testing. 
 
 ### Spotify Playing 🎧
