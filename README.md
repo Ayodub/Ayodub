@@ -5,7 +5,7 @@
 
 - 🌱 CTF Player.
 - 👯 OSCP | OSWP | eCPPT | eWPT | eJPT.
-- 🥅 Especially interested in Cloud Penetration Testing. 
+- 🥅 Currently studying Mobile App pentesting
 
 ### Spotify Playing 🎧
 
