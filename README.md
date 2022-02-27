@@ -15,11 +15,8 @@
 
 <br />
 
-### Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayodub)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -29,7 +26,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayodub)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
