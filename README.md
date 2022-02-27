@@ -15,6 +15,9 @@
 
 <br />
 
+### Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayodub)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools:
 
 
