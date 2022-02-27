@@ -3,8 +3,8 @@
 
 ## I'm a Penetration Tester and Developer.
 
-- Developing Rust and Python Applications<img align="left" alt="Rust" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
-- 👯 OSCP | OSWP | eCPPT | eWPT | eJPT.
+- ⚙️ Developing Rust and Python Applications<img align="left" alt="Rust" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
+- 📚 OSCP | OSWP | eCPPT | eWPT | eJPT.
 - 🥅 Currently studying Exploit Development
 
 ### Spotify Playing 🎧
