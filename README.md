@@ -5,7 +5,7 @@
 
 - ⚙️ Developing Rust, C++ and Python Applications
 - 📚 OSCP | OSWP | eCPPT | eWPT | eJPT.
-- 🥅 Currently studying Exploit Development
+- 🥅 Currently Studying Exploit Development
 
 
 ### Connect with me:
