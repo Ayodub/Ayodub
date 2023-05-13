@@ -1,4 +1,4 @@
-### Hi there, I'm Tom 👋
+### Hi there, 👋
 
 
 ## I'm a Penetration Tester and Developer.
