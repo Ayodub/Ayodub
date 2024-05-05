@@ -3,7 +3,7 @@
 
 ## I'm a Penetration Tester and Developer.
 
-- ⚙️ Developing Nim, Rust, C and Python Applications
+- ⚙️ Developing Python and IronPython Applications, and dabbling in Nim, Rust, C.
 - 📚 OSCP | OSWP | eCPPT | eWPT | eJPT.
 - 🥅 Currently Studying Malware Development
 
