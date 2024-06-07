@@ -5,7 +5,7 @@
 
 - ⚙️ Developing Python applications and dabbling in other languages.
 - 📚 OSCP | OSWP | eCPPT | eWPT | eJPT.
-- 🥅 Currently Studying Malware Development
+- 🥅 Currently Studying Malware and C2 Development
 
 
 ### Connect with me:
