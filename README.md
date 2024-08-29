@@ -3,7 +3,7 @@
 
 ## I'm a Penetration Tester and Developer.
 
-- ⚙️ Developing Python applications and dabbling in other languages.
+- ⚙️ Developing F# & Python applications and dabbling in other languages.
 - 📚 OSCP | OSWP | eCPPT | eWPT | eJPT.
 - 🥅 Currently Studying Malware and C2 Development
 
