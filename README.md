@@ -44,7 +44,7 @@
 ### 📺 Current Projects
 
 <!-- Project:START -->
-- BYOI Scripts in F#
+- C2 Framework utilising BYOI techniques in F#
 - C2 Agnostic GUI in F#
 - LeakyFlask: An intentionally vulnerable Flask Web application demonstrating common security misconfigurations that users may exploit, as well as information on how to avoid these misconfigurations.
 - WebEnum: A desktop GUI to automate all the simple, but tedious, web enumeration tasks. Intentionally built with no automated exploitation, keeping it within the guidelines of exams such as the OSCP and allowing it to be a useful time-saving tool for those learning Cyber Security.
