@@ -44,10 +44,11 @@
 ### 📺 Current Projects
 
 <!-- Project:START -->
-- C2 Framework utilising BYOI techniques in F#
+- C2 Framework leveraging BYOI techniques in F#'s interpreter (fsi.exe) to remain in memory and evade detection
 - C2 Agnostic GUI in F#
-- LeakyFlask: An intentionally vulnerable Flask Web application demonstrating common security misconfigurations that users may exploit, as well as information on how to avoid these misconfigurations.
-- WebEnum: A desktop GUI to automate all the simple, but tedious, web enumeration tasks. Intentionally built with no automated exploitation, keeping it within the guidelines of exams such as the OSCP and allowing it to be a useful time-saving tool for those learning Cyber Security.
+- Massploit: F# script combining Shodan and Metasploit for mass automated exploitation.
+- LeakyFlask: An intentionally vulnerable Python Flask Web application demonstrating common security misconfigurations that users may exploit, as well as information on how to avoid these misconfigurations.
+- WebEnum: A Python desktop GUI to automate all the simple, but tedious, web enumeration tasks. Intentionally built with no automated exploitation, keeping it within the guidelines of exams such as the OSCP and allowing it to be a useful time-saving tool for those learning Cyber Security.
 
 <!-- Project:END -->
 
